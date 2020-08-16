@@ -2,11 +2,16 @@
 
 checklist for onboarding new engineers
 
+**What the engineer provides**
 - [ ] bank account
 - [ ] github username
-- [ ] invite to keybase.io our current team chat platform
 - [ ] regular email address
-- [ ] invite to docker hub (dockerhub username)
+- [ ] docker hub username
+- [ ] keybase.io username
+
+**What we do**
+- [ ] invite to keybase.io our current team chat platform
+- [ ] invite to docker hub
 - [ ] invite to cloud platforms: digital ocean, aws and gcp
-- [ ] google spreadsheet with project backlog
-- [ ] calender invite to sprint planning and reiview meeting
+- [ ] share google spreadsheet with the projects backlog, sprint planning & product roadmaps
+- [ ] calender invite to sprint planning and retro meetings
