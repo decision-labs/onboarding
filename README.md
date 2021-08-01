@@ -8,6 +8,7 @@ checklist for onboarding new engineers
 - [ ] regular email address
 - [ ] docker hub username
 - [ ] keybase.io username
+- [ ] bitwarden username
 
 **What we do**
 - [ ] invite to keybase.io our current team chat platform
