@@ -77,9 +77,9 @@ If I turn out to be the employee with administrative access to employee data, pr
 
 I read this and won’t ruin our security 
 
-Signed, ____________________ 
+Signed, Muhammad Ahmed Baig 
 
-Date ______________________ 
+Date:  18 / 08 / 2021 
  
  
 ### What is this “security policy” for?
